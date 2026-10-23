@@ -1,8 +1,10 @@
 # davidydev.github.io
 
-Portfolio de David Yuhao Weng Wang: <https://davidydev.github.io>
+[Leer en español](README.es.md)
 
-Una sola página (`index.html`) en español e inglés, sin dependencias. El idioma se elige con el botón ES/EN, se
-recuerda en el navegador y también se puede forzar con `?lang=es` o `?lang=en`.
+David Yuhao Weng Wang's portfolio: <https://davidydev.github.io>
 
-Las imágenes de `img/` están comprimidas a ~1100 px de ancho en JPEG.
+A single page (`index.html`) in English and Spanish, with no dependencies. The language is picked with the ES/EN
+button, remembered in the browser, and can also be forced with `?lang=en` or `?lang=es`.
+
+The images in `img/` are compressed JPEGs about 1100 px wide.
